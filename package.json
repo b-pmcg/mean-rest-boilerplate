@@ -1,0 +1,14 @@
+{
+  "name"         : "node-record",
+  "version"      : "0.0.1",
+  "description"  : "Simple record application.",
+  "main"         : "server.js",
+  "author"       : "Scotch",
+  "dependencies" : {
+    "express"         : "~4.13.4",
+    "mongoose"        : "~4.4.8",
+    "morgan"          : "~1.7.0",
+    "body-parser"     : "~1.15.0",
+    "method-override" : "~2.3.5"
+  }
+}
