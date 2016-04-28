@@ -1,7 +1,7 @@
 {
   "name"         : "node-record",
   "version"      : "0.0.1",
-  "description"  : "A record of records.",
+  "description"  : "A boilerplate to get started with MEAN apps.",
   "main"         : "server.js",
   "author"       : "Phil Bain",
   "dependencies" : {
