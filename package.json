@@ -1,9 +1,9 @@
 {
   "name"         : "node-record",
   "version"      : "0.0.1",
-  "description"  : "Simple record application.",
+  "description"  : "A record of records.",
   "main"         : "server.js",
-  "author"       : "Scotch",
+  "author"       : "Phil Bain",
   "dependencies" : {
     "express"         : "~4.13.4",
     "mongoose"        : "~4.4.8",
